@@ -12,3 +12,10 @@ git remote add origin git@github.com:PengfeiCui/learngit.git
 git push -u origin master
 
 git push origin master   
+
+New branch
+git checkout -b dev    same to git branch dev + git checkout dev  
+switched to a new braunch 'dev'
+
+git branch    check all branches
+
