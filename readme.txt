@@ -20,3 +20,6 @@ switched to a new braunch 'dev'
 git branch    check all branches
 
 git merge dev   merge two branches
+
+git branch -d dev 
+Deleted branch
